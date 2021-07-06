@@ -13,6 +13,6 @@ it('subtraction', function(){
     homePage.enterFirstNumber(7);
     homePage.enterSecondNumber('2');
     homePage.clickGoButton();
-    homePage.verifyResult('19');
+    homePage.verifyResult('9');
 });
 });
